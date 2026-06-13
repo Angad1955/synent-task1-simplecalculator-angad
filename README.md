@@ -26,8 +26,6 @@ A simple Command Line Interface (CLI) calculator built using Python. This progra
    python task_1.py
    ```
 
-## 💻 Example Output
-
 # Example Output
 
 ```
