@@ -13,7 +13,7 @@ A simple Command Line Interface (CLI) calculator built using Python. This progra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone [https://github.com/your-username/simple-calculator.git]
    ```
 
 2. Navigate to the project directory:
