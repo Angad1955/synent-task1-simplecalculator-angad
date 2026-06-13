@@ -9,6 +9,24 @@ A simple Command Line Interface (CLI) calculator built using Python. This progra
 - Multiplication
 - Division
 
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Angad1955/synent-task1-simplecalculator-angad
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd synent-task1-simplecalculator-angad
+   ```
+
+3. Run the program:
+   ```bash
+   python task_1.py
+   ```
+
+## 💻 Example Output
 
 # Example Output
 
